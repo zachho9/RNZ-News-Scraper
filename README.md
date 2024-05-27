@@ -1,3 +1,3 @@
 # RNZ-News-Scraper
-- Scraping News from New Zealand Media RNZ.  
-- Python Libraries used: `BeautifulSoup`, `requests`
+- Python script for scraping news posts from New Zealand Media RNZ.  
+- Libraries used: `BeautifulSoup`, `requests`
