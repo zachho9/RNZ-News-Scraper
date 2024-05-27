@@ -1,3 +1,3 @@
 # RNZ-News-Scraper
-Scraping News from www.rnz.co.nz  
+Scraping News from New Zealand Media RNZ.
 Python Libraries used: `BeautifulSoup`, `requests`
